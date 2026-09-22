@@ -25,7 +25,7 @@ A high-fidelity Android application built with Jetpack Compose, Retrofit, and Fi
 - **Testing**: Robust unit testing suite using `kotlinx-coroutines-test`.
 
 ## 📹 Video Presentation
-[Click here to watch the presentation](INSERT_YOUR_VIDEO_LINK_HERE)
+[Click here to watch the presentation}https://youtu.be/yf8DlmSSyIw?si=DSdibIWirAd-Z7aj)
 
 ---
 *Created as part of the App Prototype Development Assessment.*
